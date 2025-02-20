@@ -1,2 +1,2 @@
-def return_zero () :
-    return 0
+def return_double (x):
+	return x*2
